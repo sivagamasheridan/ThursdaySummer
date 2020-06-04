@@ -17,6 +17,7 @@ public class ExampleThursday {
     public static void main(String[] args) 
     {
         System.out.println("learning pull operations");
+        System.out.println("learning pull and fetch operations");
     }
     
 }
