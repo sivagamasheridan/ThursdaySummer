@@ -20,6 +20,7 @@ public class ExampleThursday {
         System.out.println("learning pull and fetch operations");
        System.out.println("learning fetch operations"); 
        System.out.println("learning fetch+merge operations");  
+    //This is second branch
     }
     
 }
